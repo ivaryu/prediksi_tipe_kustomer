@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ### 4. Jalankan API
 
 ```cmd
-uvicorn app:app --reload
+uvicorn main:app --reload
 ```
 
 ### 5. Akses Swagger UI
