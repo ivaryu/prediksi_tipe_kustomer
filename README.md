@@ -37,7 +37,7 @@ uvicorn main:app --reload
 Buka browser:  
  [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
-## ✏ Contoh JSON Input
+## Contoh JSON Input
 
 ```json
 {
@@ -52,7 +52,7 @@ Buka browser:
 }
 ```
 
-## ✅ Contoh Output
+## Contoh Output
 
 ```json
 {
