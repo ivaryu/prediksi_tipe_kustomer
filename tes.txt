@@ -1,0 +1,18 @@
+{
+  "Branch": 1,
+  "City": 2,
+  "Gender": 1,
+  "Product_line": 3,
+  "Unit_price": 250.75,
+  "Quantity": 20,
+  "Tax_5percent": 12.53,
+  "Total": 5015.00,
+  "Payment": 1,
+  "cogs": 3500.00,
+  "gross_margin_percentage": 30.35,
+  "gross_income": 1515.00,
+  "Rating": 4.2,
+  "Jam": 14,
+  "Waktu_Transaksi": 1,
+  "Segment_Pembelian": 2
+}
