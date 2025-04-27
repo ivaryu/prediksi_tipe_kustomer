@@ -8,11 +8,9 @@
 ```
 
 ### 1. Clone Repository
-
+Clone Repository menggunakan terminal Visual Studio Code
 ```cmd
 git clone https://github.com/ivaryu/prediksi_tipe_kustomer.git
-cd posttest_PDAB
-
 ```
 
 ### 2. Buat Virtual Environment pada Folder
